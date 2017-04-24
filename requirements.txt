@@ -45,8 +45,8 @@ Sphinx
 django-debug-toolbar==1.2.1
 
 # Python memcached - using temporary branch until Python 3 support is merged
-# python-memcached==1.54
-git+git://github.com/haypo/python-memcached.git@py3
+python-memcached==1.54
+#git+git://github.com/haypo/python-memcached.git@py3
 
 gunicorn==19.1.1
 
